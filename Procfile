@@ -1,1 +1,1 @@
-web: gunicorn GettysburgParseFlask.py
+web: gunicorn GettysburgParseFlask:app
