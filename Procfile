@@ -1,1 +1,1 @@
-web: gunicorn GettysburgParseFlask:GettysburgParseFlask
+web: gunicorn GettysburgParseFlask
