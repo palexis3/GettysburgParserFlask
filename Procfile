@@ -1,1 +1,1 @@
-web: gunicorn GettysburgParseFlask:GettysburgParseFlask.py
+web: gunicorn GettysburgParseFlask.wsgi
