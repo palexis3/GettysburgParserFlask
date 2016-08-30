@@ -1,1 +1,1 @@
-web: python GettysburgParseFlask/GettysburgParseFlask.py
+web: python GettysburgParseFlask.py
